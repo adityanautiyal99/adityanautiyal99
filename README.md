@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Nautiyal
-- 👀 I’m interested in programming, chess, space.
+- 👀 I’m interested in programming, chess, space, astronomy.
 - 🌱 I’m currently learning DevOps
 
 <!---
